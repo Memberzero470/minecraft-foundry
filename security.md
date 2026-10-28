@@ -162,6 +162,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Minecraft · Updated 2026-10-27 · Shared under the MIT License*
+*Minecraft · Updated 2026-10-28 · Shared under the MIT License*
 
-<!-- updated 2026-10-27 -->
+<!-- updated 2026-10-28 -->
